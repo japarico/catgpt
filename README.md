@@ -3,6 +3,9 @@
 ## CatGPT is a parody of ChatGPT, It is heavily inspired by the Duck Debugger used in Harvard CS50 Course.
 
 #
+
+[![Watch the video](https://img.youtube.com/vi/cbOx45BGRyI/0.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 CatGPT is the most advanced AI that will ever exist in our universe. In fact, it's so advanced that we cannot really understand the output it gives out. It is using a far superior language of cat. With the power of GPT-♾️ it can give the most compact response with no time delay.
 
 To be fair it's all for the memes as how ChatGPT is very similar to CatGPT.
